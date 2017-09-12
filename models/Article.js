@@ -7,6 +7,8 @@ function Article(defaultData){
     this.body = defaultData.body;
 }
 
+//some modification for git
+
 // Article.prototype.getArticle = function(id){
 //     var that = this;
 //     var responseObj = {};
